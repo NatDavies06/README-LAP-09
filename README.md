@@ -2,8 +2,7 @@
 
 ## Overview
 
-README LAP is a command-line application that allows users to quickly and easily generate a professional README.md file for their projects. With this application, users can focus more on working on their pojects rather than  spending time creating documentation.
-
+README, Like A Pro is a command-line application that allows users to quickly and easily generate a professional README.md file for their projects. With this application, users can save time wrtiing documentation and focus more on the project.
 
 ## Table of Contents
 
