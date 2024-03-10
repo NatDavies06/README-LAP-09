@@ -49,8 +49,7 @@ Follow the prompts to enter information about your project, and a proffesional R
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## Demo
-
-* Demo Coming Soon!
+[video demo](https://drive.google.com/file/d/1eUluC-cGTm8-gYC6yHMDLPu-12UsThpA/view)
 
 ## Questions
 
