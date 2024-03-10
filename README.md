@@ -2,7 +2,7 @@
 
 ## Overview
 
-RMLP is a command-line application that allows users to quickly and easily generate a professional README.md file for their projects. With this application, users can focus more on working on their pojects rather than  spending time creating documentation.
+README LAP is a command-line application that allows users to quickly and easily generate a professional README.md file for their projects. With this application, users can focus more on working on their pojects rather than  spending time creating documentation.
 
 
 ## Table of Contents
